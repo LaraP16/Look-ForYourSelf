@@ -1,0 +1,695 @@
+/*pagina1*/
+
+body{
+    background-color: #C1E9FF;
+}
+
+
+.menu{
+    width: 50px;
+    float: left;
+    background-color:#0052CC;
+    border: none;
+    margin-top: 30px;
+    margin-left: 410px;
+    cursor: pointer;
+}
+.logo{
+    background-color: #0052CC;
+    color: white;
+    text-align: center;
+    height: 100px;
+    width: 700px;
+    margin-left: 405px;
+    padding-top: 70px;
+    border-radius: 10px;
+}
+
+.logo1{
+    width: 700px;
+    margin-top: -50px;
+    margin-left: -70px;
+}
+
+.lupa{
+    border: none;
+    background-color: #C1E9FF;
+    cursor: pointer;
+}
+
+.pesquisa{
+    width: 550px;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: 480px;
+    border: none;
+    font-family: 'Patrick Hand', cursive;
+}
+
+
+.estatistica{
+    float: right;
+    margin-right: 430px;
+    padding-top: 10px;
+    width: 140px;
+}
+
+.dados{
+    float: left;
+    margin-left: 440px;
+    padding-top: 30px;
+}
+
+.fake_news{
+    float: right;
+    margin-right: 430px;
+    padding-top: 30px;
+}
+
+.comuna{
+    float: left;
+    margin-left: 440px;
+    padding-top: 45px;
+}
+
+.bloco1{
+    background-color: #4D94FF;
+    width: 700px;
+    height: 130px;
+    margin-left: 405px;
+    border-radius: 10px;
+}
+
+.bloco2{
+    background-color: #99C2FF;
+    width: 700px;
+    height: 130px;
+    margin-left: 405px;
+    border-radius: 10px;
+}
+
+
+.t1{
+    padding-left: 30px;
+    width: 450px;
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: 'Patrick Hand', cursive;
+ }
+ 
+ .t2{
+     padding-left: 30px;
+     width: 450px;
+     padding-top: 5px;
+     font-size: 15px;
+     font-family: 'Lato', sans-serif;
+ }
+
+ .t3{
+    padding-right: 30px;
+    width: 550px;
+    padding-top: 15px;
+    font-size: 20px;
+    margin-left: 200px;
+    font-family: 'Patrick Hand', cursive;
+ }
+
+ .t4{
+    padding-right: 10px;
+    width: 550px;
+    padding-top: 5px;
+    font-size: 15px;
+    margin-left: 200px;
+ }
+
+ 
+.t5{
+    padding-left: 30px;
+    width: 450px;
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: 'Patrick Hand', cursive;
+ }
+ 
+ .t6{
+     padding-left: 30px;
+     width: 450px;
+     font-size: 15px;
+     font-family: 'Lato', sans-serif;
+ }
+
+ .t7{
+    padding-right: 30px;
+    width: 550px;
+    padding-top: 15px;
+    font-size: 20px;
+    margin-left: 200px;
+    font-family: 'Patrick Hand', cursive;
+ }
+
+ .t8{
+    padding-right: 10px;
+    width: 550px;
+    padding-top: 5px;
+    font-size: 15px;
+    margin-left: 200px;
+ }
+
+ .rodape{
+    background-color: #0086B3;
+    color:white;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: -10px;
+    width: 695px;
+    margin-left: 410px;
+    border-radius: 3px;
+ }
+ 
+
+/*pagina2*/
+
+.logo-img{
+    width: 100px;
+}
+
+ .topo{
+    background-color: #0052CC;
+    color: white;
+    text-align: center;
+    height: 100px;
+    width: 770px;
+    border-radius: 10px;
+    margin-top: -10px;
+    margin-left: 370px;
+}
+.titulo1{
+    background-color: #4D94FF;
+    width: 700px;
+    height: 100px;
+    margin-left: 405px;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.tex{
+    width: 350px;
+    font-size: 30px;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    float: right;
+    margin-right: 280px;
+
+}
+
+.menu1{
+    height: 30px;
+    background-color: #4D94FF;
+    border: none;
+    margin-top: 35px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+
+.teste{
+    height: 300px;
+    width: 270px;
+    margin-left: 470px;
+}
+
+.barra1{
+    background-color: #0099FF;
+    border-radius: 70px;
+    text-align: center;
+    width: 150px;
+    height: 22px;
+    margin-left: 63px;
+    margin-bottom: 5px;
+    font-family: 'Patrick Hand', cursive;
+
+
+}
+
+.cirf{
+    background-color: #0052CC;
+    width: 230px;
+    height: 210px;
+    border-radius: 250px;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.circ{
+    background-color: #99C2FF;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    margin-left: 15px;
+}
+
+.tik{
+    margin-top: 30px;
+    margin-left: 35px;
+    background-color:#99C2FF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.hrs{
+    color:white;
+    padding-left: 70px;
+    padding-top: -13px;
+    margin-top: -5px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.prop{
+    color:white;
+    padding-left: 65px;
+    padding-top: -13px;
+    margin-top: -5px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+
+.teste1{
+    height: 300px;
+    width: 270px;
+    margin-left: 750px;
+    margin-top: -170px;
+    margin-bottom: -100px;
+}
+
+.barra2{
+    background-color: #0099FF;
+    border-radius: 70px;
+    text-align: center;
+    width: 150px;
+    height: 22px;
+    margin-left: 63px;
+    margin-bottom: 5px;
+    font-family: 'Patrick Hand', cursive;
+
+
+}
+
+.cirf1{
+    background-color: #99C2FF;
+    width: 230px;
+    height: 210px;
+    border-radius: 250px;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.circ1{
+    background-color: #0052CC;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    margin-left: 15px;
+}
+.si{
+    margin-top: 30px;
+    margin-left: 49px;
+    background-color:#0052CC;
+    cursor: pointer;
+}
+
+.not{
+    color:white;
+    padding-left: 63px;
+    padding-top: -17px;
+    margin-top: -12px;
+    cursor: pointer;
+    font-family: 'Patrick Hand', cursive;
+}
+.met{
+    color:white;
+    padding-left: 65px;
+    padding-top: -17px;
+    margin-top: 1px;
+    cursor: pointer;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 17px;
+}
+
+
+.mega{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.fmega{
+    background-color: #0099FF;
+    width: 50px;
+    height: 50px;
+    border-radius: 70px;
+    margin-left: 520px;
+    margin-top: -30px;
+}
+
+.rodape1{
+    background-color: #0086B3;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: -10px;
+    margin-top: 50px;
+    
+    margin-left: 410px;
+    border-radius: 3px;
+    width: 695px;
+ }
+
+
+
+
+ /*Página 3*/
+
+ .fundo{
+    background-color: #0052CC;
+    width: 700px;
+    height: 130px;
+    margin-left: 405px;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-top: 20px;
+ }
+ .fundo1{
+    background-color: #0052CC;
+    width: 700px;
+    height: 130px;
+    margin-left: 405px;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-top: 30px;
+ }
+
+ .cima{
+    background-color: #99C2FF;
+    width: 660px;
+    height: 110px;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-left: 20px;
+    float: left;
+    margin-top: 10px;
+ }
+
+ .tex3{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 25px;
+    padding-left: 10px;
+ }
+
+ .inst{
+    float: right;
+    margin-top: -110px;
+    margin-right: 40px;
+    width: 40px;
+}
+ .tt{
+    float: right;
+    margin-top: -90px;
+    margin-right: 90px;
+    width: 40px;
+}
+ .face{
+    float: right;
+    margin-top: -50px;
+    margin-right: 40px;
+    width: 40px;
+}
+
+.pc{
+    float: right;
+    margin-top: -100px;
+    margin-right: 40px;
+    width: 100px;
+}
+
+.bu{
+    float: right;
+    margin-top: -100px;
+    margin-right: 40px;
+    width: 100px;
+}
+
+.mega1{
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+
+.fmega2{
+    background-color: #0099FF;
+    width: 50px;
+    height: 50px;
+    border-radius: 70px;
+    margin-top: 15px;
+    margin-left: 420px;
+    float: left;
+}
+
+
+.rodape2{
+    background-color: #0086B3;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: -10px;
+    margin-top: 80px;
+    
+    margin-left: 400px;
+    border-radius: 3px;
+    width: 720px;
+ }
+
+/* Página 4*/
+.tex1{
+    width: 650px;
+    font-size: 30px;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    float: left;
+    margin-left: 40px;
+    margin-top: -60px;
+}
+
+.notf{
+    background-color: #508DD1;
+    width: 560px;
+    height: 370px;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 470px;
+    padding-top: 10px;
+}
+
+.notc{
+    background-color: white;
+    width: 530px;
+    height: 360px;
+    margin-left: 15px;
+    border-radius: 7px;
+    margin-bottom: -10px;
+    padding-top: 1px;
+}
+
+.cola{
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 30px;
+}
+.cola1{
+    font-family: 'Patrick Hand', cursive;
+    text-align: center; 
+    font-size: 20px;
+}
+
+
+
+
+.fverd{
+    background-color: #C3F2CB;
+    width: 700px;
+    height: 120px;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 405px;
+    padding-top: 10px;
+}
+
+.cbra{
+    background-color: white;
+    width: 660px;
+    height: 110px;
+    margin-left: 20px;
+    border-radius: 10px;
+    margin-bottom: -10px;
+    padding-top: 1px;
+}
+
+
+.fverm{
+    background-color: #FB5C54;
+    width: 700px;
+    height: 120px;
+    margin-top: 20px;
+    border-radius: 10px;
+    margin-left: 405px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.verde{
+    font-family: 'Patrick Hand', cursive;
+    text-align: center; 
+    font-size: 20px;
+}
+
+.ver1{
+    font-family: 'Patrick Hand', cursive;
+    text-align: center; 
+    font-size: 15px;
+}
+
+.verm{
+    font-family: 'Patrick Hand', cursive;
+    text-align: center; 
+    font-size: 20px;
+}
+
+.verm1{
+    font-family: 'Patrick Hand', cursive;
+    text-align: center; 
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: -10px;
+}
+
+
+
+/*Página 5*/
+
+.fundo-p5{
+    background-image: url("../imagens/funco_c.png");
+    height: 100px;
+    width: 770px;
+    margin-top: -10px;
+    margin-left: 365px;
+    border-radius: 10px;
+}
+
+.perfil{
+    height: 100px;
+    width: 100px;
+    margin-left: 400px;
+    margin-top: -30px;
+}
+
+.iperfil{
+    background-color: #0099FF;
+    height: 100px;
+    width: 100px;
+    margin-top: -30px;
+    border-radius: 100px;
+}
+
+.fpes{
+    background-color: white;
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+.pes{
+    width: 60px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+
+.fcam{
+    background-color: white;
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    margin-right: 800px;
+    margin-top: -90px;
+    float: right;
+}
+
+
+.fco{
+    background-color: white;
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    margin-right: 670px;
+    margin-top: -90px;
+    float: right;
+}
+
+
+.fso{
+    background-color: white;
+    width: 90px;
+    height: 90px;
+    border-radius: 10px;
+    margin-right: 530px;
+    margin-top: -90px;
+    float: right;
+}
+
+.entre{
+    background-color: white;
+    width: 540px;
+    height: 400px;
+    margin-top: 30px;
+    border-radius: 10px;
+    margin-left: 475px;
+    padding-top: 10px;
+}
+
+.ientre{
+    width: 450px;
+    padding-left: 3px;
+}
+
+.se{
+    float: left;
+    margin-top: 170px;
+}
+
+.sd{
+    float: right;
+    margin-top: 170px;
+}
+
+
+.menu5{
+    height: 30px;
+    background-color: #C1E9FF;
+    border: none;
+    margin-top: -45px;
+    margin-left: 650px;
+    cursor: pointer;
+}
